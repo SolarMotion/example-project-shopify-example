@@ -1,1 +1,1 @@
-# Xamarin example
+# Shopify Web Api example
